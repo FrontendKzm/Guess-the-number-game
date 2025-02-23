@@ -18,7 +18,7 @@ A simple and fun number guessing game! Try to guess the randomly generated numbe
 4. When you guess correctly, your score increases, and the game continues with a new number.
 
 ## 💻 Live Demo
-Check out the live version of the game here: [**Play Now!**](https://kaizm51.github.io/Guess-the-number-game/)
+Check out the live version of the game here: [**Play Now!**](https://frontendkzm.github.io/Guess-the-number-game/)
 
 ## ⚡ Installation
 1. **Clone the repository:**
